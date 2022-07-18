@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleBookAPIExpolorer</string>
+    <string name="enter_in_a_book_name">Enter in a book name</string>
+    <string name="book_name">Book Name</string>
+    <string name="find_author">Find Author</string>
+    <string name="author">Author</string>
+    <string name="book_name_result">Book Name</string>
+</resources>
